@@ -3,7 +3,7 @@ import Link from "next/link";
 
 export default function Hero() {
   return (
-    <div className="relative hero flex flex-col items-start justify-center gap-4 px-10 py-16">
+    <div className="relative hero flex flex-col items-center justify-center gap-4 px-10 py-16">
       <h1 className="text-5xl text-center text-white">
         Murano
       </h1>

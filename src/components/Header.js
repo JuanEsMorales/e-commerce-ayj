@@ -7,7 +7,7 @@ import ShoppingBagIcon from "./ShoppingBagIcon";
 
 export default function Header() {
   return (
-    <header className="flex items-center justify-between py-2 px-4 bg-white shadow-md sticky top-0 z-10">
+    <header className="flex items-center justify-between py-2 px-4 bg-white/30 backdrop-blur-2xl shadow-md sticky top-0 z-10">
       <div className="flex items-center gap-4">
         <div className="flex items-center gap-2">
           <MenuIcon />
