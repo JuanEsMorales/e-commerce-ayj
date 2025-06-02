@@ -34,8 +34,8 @@ const products = [
 export default function BentoSet() {
   return (
     <section className="mt-16 mb-16">
-      <h1 className='text-center text-4xl'>
-        JUEGOS DISPONIBLES
+      <h1 className='text-center text-3xl mb-14'>
+        Explora nuestras colecciones diseñadas para realzar tu esencia
       </h1>
       <div className='grid grid-cols-3 grid-rows-2 gap-4 h-dvh w-full p-2'>
         {
